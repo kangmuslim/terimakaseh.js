@@ -1,0 +1,2 @@
+# terimakaseh.js
+terimakaseh
